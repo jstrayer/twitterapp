@@ -27,6 +27,9 @@ namespace twitterapp
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
+            String tweetMessage;
+            tweetMessage = textBox1.Text;
+
 
         }
 
